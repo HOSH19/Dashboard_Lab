@@ -16,5 +16,6 @@ Start here: **[00-overview.md](./00-overview.md)**
 | 07 | [SQLite](./07-sqlite-relational-db.md) | Relational database & keys |
 | 08 | [Request lifecycle](./08-request-lifecycle.md) | One feature traced end to end |
 | 09 | [Tooling & scripts](./09-tooling-and-scripts.md) | npm, env, migrations, seed |
+| 10 | [React common functions](./10-react-common-functions.md) | `useState`, `useEffect`, `await`, `Link`, … |
 
-Tip: keep the app running (`npm run dev`) and click through the UI while reading note 08.
+Tip: keep the app running (`npm run dev`) and click through the UI while reading note 08. For hooks and navigation helpers, read note 10 next to the components in `src/components/`.

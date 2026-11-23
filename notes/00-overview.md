@@ -43,6 +43,7 @@ SQLite database         (tables + foreign keys)
 7. [07-sqlite-relational-db.md](./07-sqlite-relational-db.md) — tables and relations  
 8. [08-request-lifecycle.md](./08-request-lifecycle.md) — one feature traced end to end  
 9. [09-tooling-and-scripts.md](./09-tooling-and-scripts.md) — npm scripts, env, migrations  
+10. [10-react-common-functions.md](./10-react-common-functions.md) — `useState`, `useEffect`, `await`, `Link`, and friends  
 
 ## Mental model: who owns what?
 

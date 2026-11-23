@@ -10,6 +10,8 @@ React builds the interactive interface. In this app it is responsible for:
 - Updating local state after successful responses
 - Loading, empty, and error UI states
 
+For a function-by-function guide (`useState`, `useEffect`, `useTransition`, `Link`, `await`, …), see [10-react-common-functions.md](./10-react-common-functions.md).
+
 ## Key screens
 
 | Screen | Component | User jobs |
